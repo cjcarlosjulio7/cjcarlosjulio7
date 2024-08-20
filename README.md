@@ -27,3 +27,15 @@ Actualmente estoy cursando el **6to semestre** de la carrera de **Ingeniería de
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/usuario/proyecto.git
+2. Instalar Java y NetBeans.
+3. Configurar la base de datos MySQL.
+4. Ejecutar el proyecto en NetBeans.
+
+##Contribuciones
+¡Todas las contribuciones son bienvenidas! Si tienes alguna sugerencia o mejora, no dudes en hacer un pull request.
+
+Contacto
+Email: cjbayaschaves@yahoo.es
+GitHub: cjcarlosjulio7
+<p align="center">¡Gracias por visitar mi repositorio!</p>
+```
