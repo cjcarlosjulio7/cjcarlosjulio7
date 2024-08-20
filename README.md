@@ -31,10 +31,10 @@ Actualmente estoy cursando el **6to semestre** de la carrera de **Ingeniería de
 3. Configurar la base de datos MySQL.
 4. Ejecutar el proyecto en NetBeans.
 
-##Contribuciones
+## Contribuciones
 ¡Todas las contribuciones son bienvenidas! Si tienes alguna sugerencia o mejora, no dudes en hacer un pull request.
 
-Contacto
+## Contacto
 Email: cjbayaschaves@yahoo.es
 GitHub: cjcarlosjulio7
 <p align="center">¡Gracias por visitar mi repositorio!</p>
